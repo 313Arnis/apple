@@ -10,7 +10,7 @@
 <nav class="navbar">
         <ul class="produkti">
             <li><a href="watch">Watch</a></li>
-            <li><a href="store">Store</a></li>
+            <li><a href="/">Main</a></li>
             <li><a href="macbooks">MacBooks</a></li>
             <li><a href="airpods">Airpods</a></li>
             <li><a href="imac">IMacs</a></li>

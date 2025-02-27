@@ -1,0 +1,42 @@
+/* Pamata stils */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Navigācijas josla */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+
+
+
+.produkti {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.produkti li {
+    margin: 0 15px;
+}
+
+.produkti li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+/* Pārslēdz pārbaudi uz peles virsmas */
+.produkti li a:hover {
+    color: #f39c12;
+}

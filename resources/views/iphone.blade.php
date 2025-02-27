@@ -14,7 +14,7 @@
             <li><a href="macbooks">MacBooks</a></li>
             <li><a href="airpods">Airpods</a></li>
             <li><a href="imac">IMacs</a></li>
-            <li><a href="iphone">Iphone</a></li>
+            <li><a href="/">Main</a></li>
         </ul>
     </nav>
     
